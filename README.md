@@ -1,54 +1,29 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+## Olá eu sou Ruan Sales ✌🏼
 
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Ruan Sales</h1>
-<h3 align="center">Desenvolvedor Web Back-End</h3>
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/salescode_)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCEVan_CSqptt61vu4oT7n9w)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-sales-7b4051171/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/salescode_)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/osalescodes/)
 
+### Informações Pessoais
 
-<p align="center">
+Pernambucano, apaixonado por tecnologia, Bacharel em Direito e Acadẽmico de Análise e Desenvolvimento de Sistemas, co-organizador e modedador da Comunidade [PHP Pernambuco](https://phppe.net/)
+Primordialmente BackEnd em busca de me tornar FullStack Developer.
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
+### Tecnologias que trabalho diariamente
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<img src="https://img.icons8.com/dusk/64/000000/php-logo.png" width="30">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuanSalles&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanSalles&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.icons8.com/windows/32/000000/laravel.png" width="30">
-
-<img src="https://img.icons8.com/ios/50/000000/mysql-logo.png" width="30">
-
-<img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" width="30">
-
-<img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="30">
-<img src="https://img.icons8.com/color/48/000000/linux.png" width="30">
-
-* Atualmente estudando Laravel 8
-* Realizando Bootcamp - SPTech Back-End (Digital Innovation One)
-* Criando conteúdo e comunidade através da [Twitch](https://www.twitch.tv/salescodes)
-
-
-
-
-<h3 align='center'>Minhas Redes</h3>
-<p align='center'>
-<a href="https://twitter.com/salescode_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ruansalles" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/ruan-sales-7b4051171/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ruansalles" height="30" width="30" /></a>
-<a href="https://www.instagram.com/osalescodes/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ruansalles" height="30" width="30" /></a>
-<a href="https://www.instagram.com/osalescodes/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/twitch.png" alt="ruansalles" height="30" width="30" /></a>
-
-
-
-<!--
-**RuanSalles/ruansalles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
