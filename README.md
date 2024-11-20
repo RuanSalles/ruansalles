@@ -8,8 +8,10 @@
 
 ### Informações Pessoais
 
-Pernambucano, apaixonado por tecnologia, Bacharel em Direito e Acadẽmico de Análise e Desenvolvimento de Sistemas, co-organizador e modedador da Comunidade [PHP Pernambuco](https://phppe.net/)
-Primordialmente BackEnd em busca de me tornar FullStack Developer.
+Pernambucano, pai de criança Autista, desenvolvedor full-stack! <br>
+Organizador e palestrante na comunidade PHP Pernambuco - PHPPE. <br>
+Domínio em: PHP e JS e seus frameworks <br>
+Estudante de: C# / .NET <br>
 
 ### Tecnologias que trabalho diariamente
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
